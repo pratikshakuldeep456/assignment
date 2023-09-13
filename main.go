@@ -223,7 +223,7 @@ func main() {
 
 	vs.AddVaccinationCentre("karnataka", "bangalore", "vc1")
 
-	vs.AddCapacity("vc1", 1, 1)
+	vs.AddCapacity("vc1", 1, 5)
 
 	fmt.Println("details fetch")
 
